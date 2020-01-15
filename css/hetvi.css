@@ -1,5 +1,8 @@
 .header{
-background-image:url('https://cdn.pixabay.com/photo/2018/03/24/08/56/color-3256055__340.jpg')
+background-image:url('https://cdn.pixabay.com/photo/2018/03/24/08/56/color-3256055__340.jpg');
 height:700px;
 width:100%;
+   font-family: Helveti
+     Narrow, sans-serif;
+    font-weight: bold;
 }
