@@ -1,3 +1,109 @@
+.intro{
+	background-image: url('https://github.com/sonihetvi10/myportfolio/blob/master/introbg.png?raw=true');
+	height:750px;
+	width: 100%;
+	background-attachment:fixed;
+    background-repeat: repeat;
+    background-size: cover;
+}
+.space{
+	height:100px;
+	opacity: 0px;
+}
+
+
+.spacei{
+	height:50px;
+	opacity: 0px;
+}
+
+.text{
+	color:rgba(255,255,255,1);
+    font-family: "poppins-medium", sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    text-align:center; 
+}
+
 header{
-	background-image: url("https://downloader.la/temp/5e231ee461f75.png");
+	background-color: rgb(0,0,0,1);
+	
+}
+.intro-content  {
+    font-family: "lora-regular", serif;
+    font-size: 1.7rem;
+    line-height: 2.4rem;
+   
+    letter-spacing: .2rem;
+    color: #FFFFFF;
+    text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.social {
+width: 100%;
+  color: #fff;
+  
+  text-align: center;
+
+-webkit-font-smoothing: antialiased;
+font-family: "lora-regular", serif;
+line-height: 3rem;
+color: #6e6e6e;
+list-style: disc;
+font-size: 2.4rem;
+box-sizing: inherit;
+display: inline-block;
+padding: 0;
+margin: 0 10px;
+}
+.social a {
+  text-decoration: none;
+}
+
+.social i {
+  height: 55px;
+  width: 55px;
+  margin: 20px 5px;
+  padding: 10px;
+  color: #fff;
+  border-radius: 50%;
+  
+  transition: 0.3s;
+}
+.social i:hover {
+  background: #c93d50;
+}
+
+
+.aboutme{
+	height: 750px;
+	width: 100%;
+	background-color:rgba(255,255,255,0.7);
+	font-family: "poppins-medium", sans-serif;
+}
+
+.aboutme p{
+	padding-right:150px;
+	font-size: : 66px;
+	color: #8d252e;
+	
+
+}
+.aboutme h2{
+	font-family: "poppins-medium",sans-serif;
+	color:#c83f49;
+	font-size: 45px;
+	text-align: left;
+
+}
+.aboutme img{
+	left: 150px;
+}
+
+.education {
+	
+	height: 750px;
+	width:100%;
+	background-color: #977a78;
 }
