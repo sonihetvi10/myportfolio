@@ -302,9 +302,6 @@ padding-right: 100px;
 
 
 
- .conntainer{
-	padding-left:260px;
-
 
 }
 .aboutpro  h2{
@@ -446,4 +443,22 @@ footer{
 	text-align:center;
 	margin-top: 330px;
 }
+
+.aboutback{
+	padding-left: 250px;
+}
+
+
+@media screen and (max-width: 1085px){
+  .aboutback{
+    padding-left: 250px;
+}
+}
+
+@media screen and (max-width: 600px){
+  .aboutback{
+    padding-left: 0px;
+}
+}
+
 
