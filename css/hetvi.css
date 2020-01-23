@@ -445,13 +445,13 @@ footer{
 }
 
 .aboutback{
-	padding-left: 250px;
+	padding-left: 300px;
 }
 
 
 @media screen and (max-width: 1085px){
   .aboutback{
-    padding-left: 250px;
+    padding-left: 300px;
 }
 }
 
